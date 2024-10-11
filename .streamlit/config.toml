@@ -1,0 +1,12 @@
+[server]
+port=3032
+folderWatchBlacklist = ["chat_log", "conversations.csv"]
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = true  # enable it while debugging
+
+[theme]
+base = "light"

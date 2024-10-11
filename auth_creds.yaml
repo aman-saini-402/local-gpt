@@ -1,0 +1,23 @@
+cookie:
+  expiry_days: 1
+  key: gpt4ouro@2024
+  name: netspend_localgpt_poc_v1
+credentials:
+  usernames:
+    admin:
+      email: admin@netspend.com
+      logged_in: false
+      name: Admin
+      password: $2b$12$Yg0KJPUtv7VWhBmDuqVE4OuQYt6iyvRoWRUWI.4if9nP1H7W6gaRS
+    aman:
+      email: xyz@netspend.com
+      logged_in: false
+      name: Aman
+      password: $2b$12$8a0qNu6OdjjbSe/HI6A9EOzN15q1zZSFhJByEIJAjSUu4GF5OgkYm
+    user:
+      email: user@netspend.com
+      logged_in: false
+      name: User
+      password: $2b$12$OPza3O1noVlexF.lW2FVgOKNW4rESlcpXgov/zfkGJjZFdY5NkNgi
+preauthorized:
+  emails: null
